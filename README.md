@@ -2,6 +2,7 @@
 
 MT5用のチャートの中にシンボル名を表示するインジケーターです。
 どの通貨ペアやCFDを表示しているかをより分かりやすくするためのツールです。
+![image](https://github.com/junmt/BackgroundSymbolInfo/assets/12598156/516b3400-6f1e-48c8-9e8f-ac585a1fd34b)
 
 ## 説明
 - チャートの中心あたりにシンボル名（USDJPYなど）を表示します。
